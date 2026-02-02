@@ -407,3 +407,12 @@ The pipeline is designed to be executed as Databricks workflows:
 ## Conclusion
 
 This Travel Booking SCD2 Merge Project demonstrates a production-ready data engineering pipeline with comprehensive SCD2 implementation, data quality validation, and performance optimization. The pipeline provides a solid foundation for travel booking data processing with built-in monitoring, audit trails, and scalability features.
+
+## Author
+
+**Aditya Shinde**  
+Data Engineer  
+Passionate about building scalable data pipelines
+
+---
+Last updated - January 2026
